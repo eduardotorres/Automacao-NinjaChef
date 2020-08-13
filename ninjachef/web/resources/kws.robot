@@ -33,3 +33,6 @@ Quando faço o cadastro do item
 
 Devo ver o item no dashboard
     Wait Until Element Contains     ${LISTA_PRODUTOS}       ${produto['nome']}
+
+
+############ Receber Pedidos ###################

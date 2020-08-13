@@ -14,5 +14,5 @@ ${base_url}     http://ninjachef-qaninja-io.umbler.net/
 Open Session
     Open Browser    about:blank     chrome
 Close Session
-    ##Capture Page Screenshot
+    Capture Page Screenshot
     Close Browser
