@@ -1,7 +1,9 @@
 ***Settings***
 Documentation   Base Structure of the Project
 
-Library     SeleniumLibrary
+Library        SeleniumLibrary
+Library        RequestsLibrary
+Library        OperatingSystem
 
 Resource    kws.robot
 Resource    helpers.robot
